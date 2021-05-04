@@ -1,5 +1,4 @@
 # helm-chart-webserver
-![GitHub Repo stars](https://img.shields.io/github/stars/geekgodgagan/helm-chart-webserver?style=for-the-badge) <br>
 This Repository contains the code for the helm chart which is used to launch the pod with httpd webserver having PHP
 Helm is a package manager for Kubernetes. It behaves similar to other package managers (yum, apt, npm, maven, pip, gems) but it works at the application level allowing you to deploy multiple manifests together. <br>
 
